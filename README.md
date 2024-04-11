@@ -1,1 +1,1 @@
-### THis is a Basic Template that all website will require ###
+### This is a basic template that all websites will require. ###
